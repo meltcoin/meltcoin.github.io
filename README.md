@@ -1,2 +1,2 @@
-# meltcoin.github.io
-The website for Meltcoin found at https://meltcoin.io
+# Meltcoin
+Welcome to Meltcoin, the cryptocurrency that melts away slow transactions and low fees.
